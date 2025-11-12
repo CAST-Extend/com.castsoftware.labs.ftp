@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metaModel file_level="client" file_no="200">
+
+	<type name="Unknown_JCL_Dataset" rid="0">
+		<description>Unknown JCL Dataset</description>
+		<inheritedCategory name="METRICABLE"/>
+		<inheritedCategory name="UAObject"/>
+		<inheritedCategory name="JCL"/>
+		<tree parent="GROUP_JCL" category="EnlightenTree"/>
+		<inheritedCategory name="CAST_JCL_FileSubObject"/>
+		<inheritedCategory name="CastSystemViews"/>
+	</type>
+	
+</metaModel>
