@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>com.castsoftware.labs.ftp</id>
-    <version>1.0.1</version>
+    <version>1.0.2-beta0@@@</version>
     <title>Extension for JCL FTP</title>
     <authors>CAST Labs</authors>
     <owners>CAST</owners>
