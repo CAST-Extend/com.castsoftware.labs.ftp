@@ -233,7 +233,7 @@ class Extension(ApplicationLevelExtension):
             # create
             dataset = CustomObject()
             dataset.set_name(name)
-            dataset.set_type('Unknown_JCL_Dataset')
+            dataset.set_type('FTP_Unknown_JCL_Dataset')
             if self.dataset_folder:
                 dataset.set_parent(self.dataset_folder)
             else:

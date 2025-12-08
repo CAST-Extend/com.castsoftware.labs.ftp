@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metaModel file_level="client" file_no="200">
 
-	<type name="Unknown_JCL_Dataset" rid="0">
+	<type name="FTP_Unknown_JCL_Dataset" rid="1">
 		<description>Unknown JCL Dataset</description>
 		<inheritedCategory name="METRICABLE"/>
 		<inheritedCategory name="UAObject"/>
